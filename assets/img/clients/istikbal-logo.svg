@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+  <!-- Istikbal Furniture Logo -->
+  <g>
+    <!-- Stylized "I" with furniture element - Yellow -->
+    <rect x="15" y="20" width="18" height="60" rx="3" fill="#FFD700"/>
+    
+    <!-- Furniture/Chair Icon Representation - Blue -->
+    <path d="M 45 25 L 45 75 M 45 25 L 85 25 L 85 45 M 85 45 L 110 45 L 110 65 L 85 65 L 85 75 M 45 65 L 85 65" 
+          stroke="#0066CC" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="88" y="48" width="18" height="12" rx="1" fill="#0066CC" opacity="0.3"/>
+    
+    <!-- Istikbal Text - Blue -->
+    <text x="125" y="48" font-family="'Arial', 'Helvetica', sans-serif" font-size="32" font-weight="bold" fill="#0066CC" letter-spacing="3px">ISTIKBAL</text>
+    <text x="125" y="75" font-family="'Arial', 'Helvetica', sans-serif" font-size="16" font-weight="600" fill="#0066CC" letter-spacing="2px">FURNITURE</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- Bank Byblos Logo -->
+  <g>
+    <!-- Byblos Letter B (Stylized) - Yellow -->
+    <path d="M 20 10 L 20 70 M 20 10 L 50 10 Q 60 10 60 25 Q 60 35 50 35 L 20 35 M 50 35 Q 60 35 60 50 Q 60 60 50 60 L 20 60" 
+          stroke="#FFD700" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Second B - Light Purple -->
+    <path d="M 70 10 L 70 70 M 70 10 L 100 10 Q 110 10 110 25 Q 110 35 100 35 L 70 35 M 100 35 Q 110 35 110 50 Q 110 60 100 60 L 70 60" 
+          stroke="#B19CD9" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Bank Byblos Text - Light Purple -->
+    <text x="130" y="35" font-family="'Arial', 'Helvetica', sans-serif" font-size="22" font-weight="bold" fill="#B19CD9">Bank</text>
+    <text x="130" y="60" font-family="'Arial', 'Helvetica', sans-serif" font-size="22" font-weight="bold" fill="#B19CD9">Byblos</text>
+  </g>
+</svg>
